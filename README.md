@@ -4,7 +4,10 @@
 <p>
   I am a budding software engineer still being exposed to more concepts of the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad in KNUST pursuing a Bsc. Computer Engineering degree, currenlty in my 3rd year. Anything tech screams my name.
 </p>
-<h3 align="center">An aspiring Software Engineer</h3>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
 
 - 📫 How to reach me **nankwasi999@gmail.com**
