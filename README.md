@@ -4,24 +4,19 @@
 <h2 align="center" >_____</h2>
 <p>
   <br></br>
-  <br></br>
-  <br></br>
 </p>
-
 <h1 align="center">About Me</h1>
 <p>
   I am a budding software engineer still being exposed to more concepts of the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad in KNUST pursuing a Bsc. Computer Engineering degree, currenlty in my 3rd year. Anything tech screams my name.
 </p>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
 
+- 🌱 I am currenlty learning more backened development.
+- 🎯My goal immedieatly is to work on more public projects
 - 📫 How to reach me **nankwasi999@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing](https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing)
-
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing](https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing)">here</a>
 - ⚡ Fun fact **I love tech & cars**
 <br></br>
 <br></br>
