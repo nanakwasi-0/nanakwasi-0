@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **I love tech & cars**
 
+<h1 align="center">About Me</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nana kwasi owusu ahenkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nana kwasi owusu ahenkan" height="30" width="40" /></a>
