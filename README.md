@@ -11,11 +11,13 @@
 </p>
 <br></br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
+
 - 🌱 I am currenlty learning more backened development.
 - 🎯My goal immedieatly is to work on more public projects
 - 📫 How to reach me **nankwasi999@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing">here</a>
 - ⚡ Fun fact **I love tech & cars**
+<br></br>
 <br></br>
 <br></br>
 <br></br>
