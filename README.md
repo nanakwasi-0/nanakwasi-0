@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nana Akwasi Owusu Ahenkan</h1>
 <img align="right" alt="Coding" height="300" width="1000" src="https://creativeteachered.org/wp-content/uploads/2021/10/LearningBanner.gif"> 
+<h1 align="center">About Me</h1>
+<p>
+  I am a budding software engineer still being exposed to more concepts of the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad in KNUST pursuing a Bsc. Computer Engineering degree, currenlty in my 3rd year. Anything tech screams my name.
+</p>
 <h3 align="center">An aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
 
@@ -12,10 +16,6 @@
 <br></br>
 <br></br>
 <br></br>
-<h1 align="center">About Me</h1>
-<p>
-  I am a budding software engineer still being exposed to more concepts of the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad in KNUST pursuing a Bsc. Computer Engineering degree, currenlty in my 3rd year. Anything tech screams my name.
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nana kwasi owusu ahenkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nana kwasi owusu ahenkan" height="30" width="40" /></a>
