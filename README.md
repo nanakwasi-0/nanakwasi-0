@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nana Akwasi Owusu Ahenkan</h1>
 <img align="right" alt="Coding" height="300" width="1000" src="https://creativeteachered.org/wp-content/uploads/2021/10/LearningBanner.gif"> 
 <br></br>
-<h2></h2>
+<h2>Someting</h2>
 <p>
   <br></br>
   <br></br>
