@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact **I love tech & cars**
 <br></br>
+<br></br>
+<br></br>
+<br></br>
 <h1 align="center">About Me</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
