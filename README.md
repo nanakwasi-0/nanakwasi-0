@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing](https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing)
 
 - ⚡ Fun fact **I love tech & cars**
-
+<br></br>
 <h1 align="center">About Me</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
