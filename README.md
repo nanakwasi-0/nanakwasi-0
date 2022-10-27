@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nana Akwasi Owusu Ahenkan</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
