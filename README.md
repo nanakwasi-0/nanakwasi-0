@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nana Akwasi Owusu Ahenkan</h1>
-<img align="right" alt="Coding" height="300" width="1000" src="https://media.giphy.com/media/xT9IgyaftFIcZNphcI/giphy.gif"> 
+<img align="right" alt="Coding" height="300" width="1000" src="https://creativeteachered.org/wp-content/uploads/2021/10/LearningBanner.gif"> 
 <h3 align="center">An aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
 
