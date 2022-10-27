@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nana Akwasi Owusu Ahenkan</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
-<img align=right alt="Coding" width="400' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
+<img align="right" alt="Coding" width="400' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
 
 - 📫 How to reach me **nankwasi999@gmail.com**
 
