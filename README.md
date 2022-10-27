@@ -16,7 +16,7 @@
 - 🌱 I am currenlty learning more backened development.
 - 🎯My goal immedieatly is to work on more public projects
 - 📫 How to reach me **nankwasi999@gmail.com**
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing](https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing)">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing">here</a>
 - ⚡ Fun fact **I love tech & cars**
 <br></br>
 <br></br>
