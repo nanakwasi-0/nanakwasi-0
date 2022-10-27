@@ -17,6 +17,7 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1goc_jGnOZFDaAR9p7ymaLrTwZn_MR3E4/view?usp=sharing">here</a>
 - ⚡ Fun fact **I love tech & cars**
 <br></br>
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nana kwasi owusu ahenkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nana kwasi owusu ahenkan" height="30" width="40" /></a>
