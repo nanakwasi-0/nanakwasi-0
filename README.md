@@ -2,6 +2,7 @@
 <img align="right" alt="Coding" height="300" width="1000" src="https://creativeteachered.org/wp-content/uploads/2021/10/LearningBanner.gif"> 
 <br></br>
 <br></br>
+<br></br>
 <h1 align="center">About Me</h1>
 <p>
   I am a budding software engineer still being exposed to more concepts of the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad in KNUST pursuing a Bsc. Computer Engineering degree, currenlty in my 3rd year. Anything tech screams my name.
