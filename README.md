@@ -7,13 +7,13 @@
 </p>
 <h1 align="center">About Me</h1>
 <p>
-  I am a budding software engineer still being exposed to more concepts of the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad in Kwame Nkrumah University of Science & Technology pursuing a Bsc. Computer Engineering degree, currenlty in my final year. Anything tech screams my name.
+  I am a budding software engineer still being exposed to more concepts in the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad at Kwame Nkrumah University of Science & Technology pursuing a BSc. Computer Engineering degree, currently in my final year. Anything tech screams my name.
 </p>
 <br></br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
 
-- 🌱 I am currenlty learning more backened development.
-- 🎯My goal immedieatly is to work on more public projects & some software engineering internships.
+- 🌱 I am currently learning more backend development.
+- 🎯My goal immediately is to work on more public projects & some software engineering internships.
 - 📫 How to reach me **nankwasi999@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wssiW5iUlnJleSD-ymEG93KuQthzQ-3Q/view?usp=sharing">here</a>
 - 🎭 I love design and attention to detail.
