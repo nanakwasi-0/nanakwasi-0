@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">About Me</h1>
 <p>
-  I am a budding software engineer still being exposed to more concepts in the field. I like to build stuff in Java, Javascript or Flutter/Dart. I'm an undergrad at Kwame Nkrumah University of Science & Technology pursuing a BSc. Computer Engineering degree, currently in my final year. Anything tech screams my name.
+  I am a budding software engineer still being exposed to more concepts in the field. I like to build stuff in Java, Typescript or Flutter/Dart. I'm a Computer Engineering graduate from the Kwame Nkrumah University of Science and Technology. Anything tech screams my name.
 </p>
 <br></br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
