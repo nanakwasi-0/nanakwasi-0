@@ -15,7 +15,7 @@
 - 🌱 I am currently learning more backend development.
 - 🎯My goal immediately is to work on more public projects & some software engineering internships.
 - 📫 How to reach me **nankwasi999@gmail.com**
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1mm2RhBFhKtTroDsIii8y40yVPdmeXurL/view?usp=drive_link](https://docs.google.com/document/d/1mS41npr5i4LyX5t96ffPRSzK8hSu4_b3/edit?usp=drive_link&ouid=111578968124241173813&rtpof=true&sd=true)">here</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1mS41npr5i4LyX5t96ffPRSzK8hSu4_b3/edit?usp=drive_link&ouid=111578968124241173813&rtpof=true&sd=true">here</a>
 - 🎭 I love design and attention to detail.
 - ⚡ Fun fact **I love tech & cars**
 <br></br>
