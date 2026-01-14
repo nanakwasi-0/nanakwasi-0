@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"> 
 
 - 🌱 I am currently learning more backend development.
-- 🎯My goal immediately is to work on more public projects & some software engineering internships.
+- 🎯My goal immediately is to contribute to more open-source projects in the fields of AI/ML, Systems architecture and Computer Vision and CUDA.
 - 📫 How to reach me **nankwasi999@gmail.com**
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1kVhZVGWn-UJNuSTCqENC1rBW1G6jcsPw/edit?usp=drive_link&ouid=111578968124241173813&rtpof=true&sd=true">here</a>
 - 🎭 I love design and attention to detail.
